@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_factory_pattern/Abstract_factory_pattern.iml" filepath="$PROJECT_DIR$/Abstract_factory_pattern/Abstract_factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator_Pizza_Topping_Cost/Decorator_Pizza_Topping_Cost.iml" filepath="$PROJECT_DIR$/Decorator_Pizza_Topping_Cost/Decorator_Pizza_Topping_Cost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" filepath="$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Amazon_Notify/Observer_Amazon_Notify.iml" filepath="$PROJECT_DIR$/Observer_Amazon_Notify/Observer_Amazon_Notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking_lot/Parking_lot.iml" filepath="$PROJECT_DIR$/Parking_lot/Parking_lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern.iml" filepath="$PROJECT_DIR$/designpattern.iml" />
+    </modules>
+  </component>
+</project>
