@@ -5,6 +5,9 @@
       <module name="Adapter_Design_Pattern" target="17" />
       <module name="Adapter_Design_Pattern.main" target="17" />
       <module name="Adapter_Design_Pattern.test" target="17" />
+      <module name="Facade_Design_Pattern" target="17" />
+      <module name="Facade_Design_Pattern.main" target="17" />
+      <module name="Facade_Design_Pattern.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
