@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter_Design_Pattern.iml" filepath="$PROJECT_DIR$/Adapter_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter_Design_Pattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter_Design_Pattern.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter_Design_Pattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter_Design_Pattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityDesignPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityDesignPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityDesignPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityDesignPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command_Design_Pattern.iml" filepath="$PROJECT_DIR$/Command_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Command_Design_Pattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Command_Design_Pattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Command_Design_Pattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Command_Design_Pattern.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator_Pizza_Topping_Cost/Decorator_Pizza_Topping_Cost.iml" filepath="$PROJECT_DIR$/Decorator_Pizza_Topping_Cost/Decorator_Pizza_Topping_Cost.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade_Design_Pattern.iml" filepath="$PROJECT_DIR$/Facade_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Facade_Design_Pattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Facade_Design_Pattern.main.iml" />

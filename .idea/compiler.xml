@@ -5,6 +5,12 @@
       <module name="Adapter_Design_Pattern" target="17" />
       <module name="Adapter_Design_Pattern.main" target="17" />
       <module name="Adapter_Design_Pattern.test" target="17" />
+      <module name="ChainOfResponsibilityDesignPattern" target="17" />
+      <module name="ChainOfResponsibilityDesignPattern.main" target="17" />
+      <module name="ChainOfResponsibilityDesignPattern.test" target="17" />
+      <module name="Command_Design_Pattern" target="17" />
+      <module name="Command_Design_Pattern.main" target="17" />
+      <module name="Command_Design_Pattern.test" target="17" />
       <module name="Facade_Design_Pattern" target="17" />
       <module name="Facade_Design_Pattern.main" target="17" />
       <module name="Facade_Design_Pattern.test" target="17" />
